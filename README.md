@@ -11,6 +11,21 @@
 - H2
 - Gradle
 - Junit
+### Build 환경 (Eclipse IDE)
+1.Git Clone https://github.com/ichhwang/preProject.git
+
+2.Gradle Project import
+- Configure > Add  Gradle Nature
+
+3.Refresh Gradle proejct
+- Gradle > Refresh Gradle Project
+
+4.Encoding
+- Properties > Resource > Text file encoding > UTF-8
+
+5.Build
+
+6.Run Spring Boot
 ### 접속 Base URI: http://localhost:8080
 ### 도메인(ENTITY)
 우리 회사는 감독원 규정을 준수하여 동의하지 않은 개인정보는 저장하지 않습니다.
